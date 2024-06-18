@@ -1,0 +1,502 @@
+127.0.0.1_29001 -> 12:48:57.149731 raft.go:185: logger initialized
+127.0.0.1_29001 -> 12:48:57.149896 main.go:44: Replica  0 , escucha en  127.0.0.1:29001
+127.0.0.1_29001 -> 12:48:57.149888 raft.go:249: handleEstado
+127.0.0.1_29001 -> 12:48:57.150034 raft.go:268: STARTS AS FOLLOWER
+127.0.0.1_29001 -> 12:48:57.229300 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:57.229562 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:57.229590 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:57.229574 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:57.229630 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:57.498136 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:57.498362 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:57.498388 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:57.498498 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:57.498539 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:57.731933 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:57.732148 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:57.732180 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:57.732410 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:57.732433 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:57.957911 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:57.958341 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:57.958377 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:57.958361 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:57.958424 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:58.230240 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:58.230505 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:58.230537 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:58.230518 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:58.230593 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:58.525967 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:58.526174 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:58.526206 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:58.526230 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:58.526264 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:58.758568 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:58.758845 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:58.758905 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:58.758846 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:58.758923 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:58.956026 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:58.956355 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:58.956395 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:58.956360 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:58.956411 raft.go:850: error en timeout pidiendo voto desde 0 al 1
+127.0.0.1_29001 -> 12:48:59.224320 raft.go:678: EJECUTANDO PEDIRVOTO_RPC, PEDIDO POR 1
+127.0.0.1_29001 -> 12:48:59.226350 raft.go:691: NO SE ENVIA VOTO A 1 EN MANDATO 9
+127.0.0.1_29001 -> 12:48:59.251028 raft.go:297: STARTS AS CANDIDATE
+127.0.0.1_29001 -> 12:48:59.251391 raft.go:848: PIDIENDO VOTO A 2
+127.0.0.1_29001 -> 12:48:59.251416 raft.go:850: error en timeout pidiendo voto desde 0 al 2
+127.0.0.1_29001 -> 12:48:59.252517 raft.go:848: PIDIENDO VOTO A 1
+127.0.0.1_29001 -> 12:48:59.252547 raft.go:856: SI SE HA RECIBIDO UN VOTO DE 1
+127.0.0.1_29001 -> 12:48:59.252567 raft.go:347: STARTS AS LEADER
+127.0.0.1_29001 -> 12:48:59.312756 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.312759 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.373216 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.374589 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.433602 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.436025 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.494372 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.497814 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.555254 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.559299 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.615488 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.620918 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.676185 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.682598 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.736751 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.743955 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.797792 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.805213 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.858611 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.866043 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.919520 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.927174 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:48:59.980558 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:48:59.988905 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.041157 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.050609 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.102147 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.111440 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.162785 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.173216 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.223635 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.235069 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.284390 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.296858 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.345516 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.358027 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.405862 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.419215 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.466134 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.480628 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.526739 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.542190 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.588063 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.603626 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.648695 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.665212 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.709614 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.726482 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.770509 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.787847 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.831183 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.848703 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.892303 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.910714 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:00.953116 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:00.972585 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.014139 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.034641 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.075443 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.096105 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.136584 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.157132 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.197380 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.218922 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.257751 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.281295 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.318721 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.343413 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.380855 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.405115 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.441909 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.466434 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.503539 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.527875 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.565287 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.589840 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.626759 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.651117 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.687914 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.713352 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.748896 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.774260 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.810663 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.836010 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.871790 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.897020 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.933390 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:01.958668 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:01.995376 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.019868 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.056660 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.080895 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.117615 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.142849 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.179298 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.204427 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.240241 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.265536 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.302018 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.327245 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.363012 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.388880 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.424558 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.449993 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.485762 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.511822 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.547058 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.573167 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.608265 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.634684 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.669833 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.696177 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.731672 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.758167 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.793497 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.819596 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.855258 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.881542 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.917045 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:02.943008 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:02.978745 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.005070 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.040130 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.066413 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.101706 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.128179 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.162655 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.190169 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.223640 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.251903 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.285216 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.313370 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.346514 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.374804 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.407437 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.436705 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.468983 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.497732 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.529902 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.559085 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.591456 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.620929 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.653285 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.682527 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.714644 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.744057 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.776319 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.805731 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.838203 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.867340 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.899614 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.928726 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:03.961337 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:03.990631 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.022800 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.051804 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.084076 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.113260 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.145689 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.174917 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.207424 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.236750 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.269060 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.298287 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.330481 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.359559 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.392167 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.421523 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.453796 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.483194 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.515429 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.544781 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.577177 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.606567 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.639219 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.667367 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.701019 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.729231 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.762287 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.790653 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.823796 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.853092 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.885234 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.914409 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:04.946912 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:04.976202 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.008154 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.037509 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.069947 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.098953 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.131230 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.160770 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.192786 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.222230 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.254610 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.283530 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.315855 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.345191 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.377549 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.406652 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.439172 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.468571 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.500145 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.530554 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.561961 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.591590 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.622971 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.653222 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.684523 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.714985 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.745375 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.776611 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.807258 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.838194 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.868326 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.899434 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.929695 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:05.960844 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.990223 raft.go:590: REQUEST FROM CLIENT, INDEX 1
+127.0.0.1_29001 -> 12:49:05.990279 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:05.990340 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.052087 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.052087 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.114104 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.114191 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.175067 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.175341 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.236097 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.236172 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.298153 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.298178 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.359627 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.359733 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.420971 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.421077 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.482937 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.483058 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.544504 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.544632 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.606163 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.606274 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.667717 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.667725 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.729564 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.729656 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.790910 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.791032 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.852844 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.852982 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.914351 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.914446 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:06.976262 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:06.976262 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.037091 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.037361 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.098000 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.098163 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.159931 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.160012 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.222170 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.222280 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.283383 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.283404 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.345153 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.345247 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.408457 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.408773 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.469874 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.470579 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.492514 raft.go:590: REQUEST FROM CLIENT, INDEX 2
+127.0.0.1_29001 -> 12:49:07.492629 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.492744 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.553444 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.553590 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.614923 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.615203 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.676212 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.676222 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.737709 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.737810 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.799243 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.799353 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.860373 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.860505 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.921390 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:07.921505 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.983040 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:07.983123 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.044829 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.044960 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.106786 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.106808 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.168237 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.168256 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.229853 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.229964 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.291108 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.291191 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.352491 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.352505 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.413978 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.414070 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.475505 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.475609 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.536707 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.536717 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.598351 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.598369 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.659742 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.659838 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.720604 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.720773 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.781720 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.781838 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.843598 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.843704 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.904749 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.904776 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.966551 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.966650 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:08.994956 raft.go:590: REQUEST FROM CLIENT, INDEX 3
+127.0.0.1_29001 -> 12:49:08.995009 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:08.995143 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.056126 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.056145 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.118621 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.118616 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.180565 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.180667 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.242015 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.242138 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.303660 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.303705 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.365025 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.365025 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.426954 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.427027 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.488457 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.488729 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.550164 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.552028 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.611491 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.613477 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.672419 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.675392 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.734310 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.736143 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.795977 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.797840 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.857531 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.859402 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.919083 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.920678 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:09.980202 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:09.981419 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.041237 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.043146 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.102660 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.104541 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.163620 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.165580 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.225341 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.227156 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.286776 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.287775 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.348901 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.348995 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.410393 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.410580 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.472650 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.472655 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.497553 raft.go:590: REQUEST FROM CLIENT, INDEX 4
+127.0.0.1_29001 -> 12:49:10.497602 raft.go:590: REQUEST FROM CLIENT, INDEX 5
+127.0.0.1_29001 -> 12:49:10.497732 raft.go:590: REQUEST FROM CLIENT, INDEX 6
+127.0.0.1_29001 -> 12:49:10.497907 raft.go:590: REQUEST FROM CLIENT, INDEX 7
+127.0.0.1_29001 -> 12:49:10.498054 raft.go:590: REQUEST FROM CLIENT, INDEX 8
+127.0.0.1_29001 -> 12:49:10.498221 raft.go:590: REQUEST FROM CLIENT, INDEX 9
+127.0.0.1_29001 -> 12:49:10.498507 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.500165 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.500191 raft.go:590: REQUEST FROM CLIENT, INDEX 10
+127.0.0.1_29001 -> 12:49:10.500241 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.501150 raft.go:590: REQUEST FROM CLIENT, INDEX 11
+127.0.0.1_29001 -> 12:49:10.501216 raft.go:590: REQUEST FROM CLIENT, INDEX 12
+127.0.0.1_29001 -> 12:49:10.501350 raft.go:590: REQUEST FROM CLIENT, INDEX 13
+127.0.0.1_29001 -> 12:49:10.501861 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.507144 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.507865 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.508587 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.509189 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.509793 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.509919 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.510376 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.510600 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.510982 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.511287 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.511480 raft.go:433: NUEVA REQUEST representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.511829 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.512351 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.512779 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.513220 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.513633 raft.go:433: NUEVA REQUEST representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.572712 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.574494 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.634116 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.636001 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.695852 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.697671 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.757190 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.759002 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.818911 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.820093 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.879799 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.881075 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:10.941109 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:10.942060 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.002390 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.003118 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.063148 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.063913 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.124620 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.125046 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.186273 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.186523 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.248463 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.248565 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.309589 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.309643 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.371184 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.371307 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.432118 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.432473 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.493793 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.493817 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.555386 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.555494 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.616480 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.616573 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.678301 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.678329 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.739328 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.739332 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.800991 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.800990 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.862864 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.862913 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.924861 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:11.924861 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.985949 raft.go:442: TICKER representante de nodo 2
+127.0.0.1_29001 -> 12:49:11.986106 raft.go:442: TICKER representante de nodo 1
+127.0.0.1_29001 -> 12:49:12.000232 raft.go:615: Se ha parado el nodo 0
